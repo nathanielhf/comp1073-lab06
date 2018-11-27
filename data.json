@@ -1,0 +1,76 @@
+{
+  "companyName": "Horizon Audio",
+  "streetAddress": "945 Dominion Avenue",
+  "city": "Midland",
+  "province": "Ontario",
+  "country": "Canada",
+  "established": "2017",
+  "active": true,
+  "slogan": "Going beyond the horizon of Digital Audio Production",
+  "featuredProducts": [
+    465246,
+    847844,
+    134879
+  ],
+  "products": [
+    {
+      "sku": 465246,
+      "name": "Synthesizer",
+      "weight": 5, 
+      "dimensions": {
+        "height": 2,
+        "width": 17,
+        "depth": 8
+      },
+      "price": 3890.99
+    },
+    {
+      "sku": 847844,
+      "name": "Compressor",
+      "weight": 3,
+      "dimensions": {
+        "height": 4,
+        "width": 12,
+        "depth": 4
+      },
+      "price": 1499.99
+    },
+    {
+      "sku": 134879,
+      "name": "Delay",
+      "weight": 4,
+      "dimensions": {
+        "height": 2,
+        "width": 12,
+        "depth": 5
+      },
+      "price": 2249.49
+    },
+    {
+      "sku": 314686,
+      "name": "Reverb",
+      "weight": 5,
+      "dimensions": {
+        "height": 5,
+        "width": 12,
+        "depth": 4
+      },
+      "price": 2499.99
+    },
+    {
+      "sku": 137542,
+      "name": "Bass Synth",
+      "weight": 5,
+      "dimensions": {
+        "height": 2,
+        "width": 15,
+        "depth": 7
+      },
+      "price": 2999.99
+    }
+  ],
+  "onSale": [
+    {"sku": 137542, "discountPercent": 20},
+    {"sku": 134879, "discountPercent": 15}
+  ]
+}
